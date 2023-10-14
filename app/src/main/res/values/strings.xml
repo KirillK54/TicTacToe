@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="winner_massage">Поздравляю Вы победили!!!</string>
+    <string name="pcwinner_massage">К сожалению, Вы проиграли!!!</string>
+    <string name="NewGame">Новая игра</string>
+    <string name="draw_massage">Ничья</string>
+    <string name="reset">Сбросить счёт</string>
+    <string name="color1">Изменить цвет на серый</string>
+    <string name="color2">Изменить цвет на белый</string>
+</resources>
